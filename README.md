@@ -1,12 +1,12 @@
-# Study Algorithms :open_book:
-## Table of Contents :star2:
+# Study Algorithms:open_book:
+## Table of Contents:label:
 [Review of Algorithms & Data Structures](#review-of-algorithms--data-structures)   
 [1주차](#1주차-220512)  
 [2주차](#2주차-220519)  
 [Problem Solving](#problem-solving)  
 
 ---
-### Review of Algorithms & Data Structures :star:
+### Review of Algorithms & Data Structures:star2:
 - [이코테 재생목록](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 - 매주 1회씩, 첨부된 이코테 영상을 각 1개씩 보고, 리뷰를 진행
 - 1인당 1개씩, 3주간 진행 --> 총 15개 영상
@@ -15,7 +15,7 @@
 - 진행에 따라 내용을 업데이트 예정
 - 이름 + 님 으로 상호 존칭  
 ---
-### 1주차 (22/05/12) :star:
+### 1주차 (22/05/12):star:
 - 전체 진행 일정 조정
     - 1주차
         - [코딩 테스트 경향 분석, Python 문법](./1주차/%EC%BD%94%ED%85%8C%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AC%B8%EB%B2%95.md) -  재훈님
@@ -24,7 +24,7 @@
         - [정렬 알고리즘](./1주차/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  석균님
         - [이진 탐색 알고리즘](./1주차/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  준규님
 ---
-### 2주차 (22/05/19) :star:
+### 2주차 (22/05/19):star:
 - 승택님 탈퇴로 일정 재조정
 - 문제 풀이 부분은 자료로만 공유
     - 2주차  
