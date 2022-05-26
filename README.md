@@ -18,23 +18,23 @@
 ---
 ### 1주차 (22/05/12):star:
 - 전체 진행 일정 조정
-    - 1주차
-        - [코딩 테스트 경향 분석, Python 문법](./1주차/%EC%BD%94%ED%85%8C%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AC%B8%EB%B2%95.md) -  재훈님
-        - [그리디 알고리즘 + 구현](./1주차/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EB%B0%8F%20%EA%B5%AC%ED%98%84.pdf) -  승택님 
+    - 2주차 리뷰 내용
+        - [코딩 테스트 경향 분석, Python 문법](./2주차/%EC%BD%94%ED%85%8C%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%AC%B8%EB%B2%95.md) -  재훈님
+        - [그리디 알고리즘 + 구현](./2주차/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EB%B0%8F%20%EA%B5%AC%ED%98%84.pdf) -  승택님 
         - [BFS & DFS](https://rndpqls999.tistory.com/140) -  예빈님
-        - [정렬 알고리즘](./1주차/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  석균님
-        - [이진 탐색 알고리즘](./1주차/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  준규님
+        - [정렬 알고리즘](./2주차/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  석균님
+        - [이진 탐색 알고리즘](./2주차/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  준규님
 ---
 ### 2주차 (22/05/19):star:
 - 승택님 탈퇴로 일정 재조정
 - 문제 풀이 부분은 자료로만 공유
-    - 2주차  
-        - [다이나믹 프로그래밍](./2%EC%A3%BC%EC%B0%A8/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf) - 준규님
+    - 3주차 리뷰 내용
+        - [다이나믹 프로그래밍](./3주차/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf) - 준규님
         - [최단 경로 알고리즘](https://rndpqls999.tistory.com/142) -  예빈님
-        - [기타 그래프 이론](./2%EC%A3%BC%EC%B0%A8/graph_theory.md) -  재훈님
-        - [기타 알고리즘](./2%EC%A3%BC%EC%B0%A8/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  석균님
-        - [개발형 코딩 테스트](./2%EC%A3%BC%EC%B0%A8/developing_coding_test.md) -  재훈님
-    - 3주차
+        - [기타 그래프 이론](./3주차/graph_theory.md) -  재훈님
+        - [기타 알고리즘](./3주차/%EA%B8%B0%ED%83%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) -  석균님
+        - [개발형 코딩 테스트](./3주차/developing_coding_test.md) -  재훈님
+    - 4주차 리뷰 내용
         - 우선 순위 큐와 힙 - 석균님
         - 트리 자료구조 - 준규님
         - 벨만 포드 알고리즘 - 재훈님
