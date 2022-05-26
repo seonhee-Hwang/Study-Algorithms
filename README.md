@@ -1,9 +1,10 @@
 # Study Algorithms:open_book:
 ## Table of Contents:label:
-[Review of Algorithms & Data Structures](#review-of-algorithms--data-structures)   
-[1주차](#1주차-220512)  
-[2주차](#2주차-220519)  
-[Problem Solving](#problem-solving)  
+* [Review of Algorithms & Data Structures](#review-of-algorithms--data-structuresstar2)   
+* [1주차](#1주차-220512star)  
+* [2주차](#2주차-220519star)  
+* [3주차](#3주차-220526star)
+* [Problem Solving](#problem-solving)  
 
 ---
 ### Review of Algorithms & Data Structures:star2:
@@ -44,7 +45,7 @@
 ---
 ### 3주차 (22/05/26):star:
 * 22/06/02 오프라인 모임 예정, 시간이랑 장소는 미정
-* 점심 식사 후, 오프라인 스터디 진행
+* 점심 식사 후, 오프라인 스터디 진행 :+1:
 * Problem Solving 관련 풀이 방식에 대해 논의 예정
 * 추가 인원에 대해서도 논의 예정
 
