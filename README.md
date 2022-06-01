@@ -45,8 +45,8 @@
         * 우선 순위 큐와 힙 - 석균님
         * 트리 자료구조 - 준규님
         * [벨만 포드 알고리즘](https://jacksonk9.github.io/algorithm/bellman-ford-algorithm/) - 재훈님
-        * 바이너리 인덱스 트리 - 예빈님
-        * 최소 공통 조상 알고리즘 - 예빈님
+        * [바이너리 인덱스 트리](https://rndpqls999.tistory.com/148) - 예빈님
+        * [최소 공통 조상 알고리즘](https://rndpqls999.tistory.com/149) - 예빈님
     * N주차 (N > 4)
         * 문제 풀이 (백준, 코드포스 등)
 ---
