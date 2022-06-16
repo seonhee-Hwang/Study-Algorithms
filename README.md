@@ -80,7 +80,7 @@
   - 타이머 종료 전까지 모두가 풀면 풀이 없이 다음 문제로
   - 1명이라도 완료가 되지 않을 경우, 풀이 후 다음 문제로
   - 풀이 진행한 문제를 GitHub에 업로드
-    - `해당 주차 폴더` - `이름` - `CodeUp_###.py` or `CodeUp_###.cpp` or `BOJ_###.py` or `BOJ_###.cpp`
+    - `ProblemSolving` - `해당 주차 폴더` - `이름` - `CodeUp_###.py` or `CodeUp_###.cpp` or `BOJ_###.py` or `BOJ_###.cpp`
     - `###` 부분은 문제 번호를 입력, 해당 GitHub 위치에 업로드
 ---
 ### PS 1주차 (22/06/16):star:
