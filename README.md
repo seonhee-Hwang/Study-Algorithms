@@ -1,15 +1,17 @@
 # Study Algorithms:open_book:
 ## Table of Contents:label:
 * [Review of Algorithms & Data Structures](#review-of-algorithms--data-structuresstar2)   
-* [1주차](#1주차-220512star)  
-* [2주차](#2주차-220519star)  
-* [3주차](#3주차-220526star)
-* [4주차](#4주차-220602star)
-* [5주차](#5주차-220609star)
-* [Problem Solving](#problem-solving)  
+  * [1주차](#1주차-220512star)  
+  * [2주차](#2주차-220519star)  
+  * [3주차](#3주차-220526star)
+  * [4주차](#4주차-220602star)
+  * [5주차](#5주차-220609star)
+  * [6주차](#6주차-220616star)
+* [Problem Solving](#problem-solving)
+  * [PS 1주차](#ps-1주차-220616star)  
 
 ---
-### Review of Algorithms & Data Structures:star2:
+## Review of Algorithms & Data Structures:star2:
 - [이코테 재생목록](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 - 매주 1회씩, 첨부된 이코테 영상을 각 1개씩 보고, 리뷰를 진행
 - 1인당 1개씩, 3주간 진행 --> 총 15개 영상
@@ -69,7 +71,20 @@
     * Study 날짜 다시 정하기 (평일 or 주말, 시간 등)
     * 문제 풀이 방식
 ---
-
-### Problem Solving
+## Problem Solving
 - 3주 간의 리뷰가 종료된 후부터, 문제 풀이 예정
-- 문제 및 개인별 풀이 방식 등을 공유하며 스터디 예정
+- 1주일에 1번, 목요일 오후 9시에 진행
+- 진행 방식
+  - CodeUp 재귀함수 ~ Union-Find, 챕터별 1문제씩 순차적으로 풀기
+  - 가장 빠른 1명이 완료하면, 그 때부터 5 ~ 10분 타이머 시작
+  - 타이머 종료 전까지 모두가 풀면 풀이 없이 다음 문제로
+  - 1명이라도 완료가 되지 않을 경우, 풀이 후 다음 문제로
+  - 풀이 진행한 문제를 GitHub에 업로드
+    - `해당 주차 폴더` - `이름` - `CodeUp_###.py` or `CodeUp_###.cpp` or `BOJ_###.py` or `BOJ_###.cpp`
+    - `###` 부분은 문제 번호를 입력, 해당 GitHub 위치에 업로드
+---
+### PS 1주차 (22/06/16):star:
+- 추후 PS 진행 방식에 대한 논의 진행
+- 기초 2차원 배열 관련 문제로 워밍업 진행
+- 풀이 내용 - CodeUp 2차원 배열 기초 문제 진행([1097](https://codeup.kr/problem.php?id=1097), [1098](https://codeup.kr/problem.php?id=1098), [1099](https://codeup.kr/problem.php?id=1099))
+---
