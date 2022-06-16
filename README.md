@@ -86,5 +86,5 @@
 ### PS 1주차 (22/06/16):star:
 - 추후 PS 진행 방식에 대한 논의 진행
 - 기초 2차원 배열 관련 문제로 워밍업 진행
-- 풀이 내용 - CodeUp 2차원 배열 기초 문제 진행([1097](https://codeup.kr/problem.php?id=1097), [1098](https://codeup.kr/problem.php?id=1098), [1099](https://codeup.kr/problem.php?id=1099))
+- [풀이 내용](./ProblemSolving/1%EC%A3%BC%EC%B0%A8/) - CodeUp 2차원 배열 기초 문제 진행([1097](https://codeup.kr/problem.php?id=1097), [1098](https://codeup.kr/problem.php?id=1098), [1099](https://codeup.kr/problem.php?id=1099))
 ---
