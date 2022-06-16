@@ -6,7 +6,6 @@
   * [3주차](#3주차-220526star)
   * [4주차](#4주차-220602star)
   * [5주차](#5주차-220609star)
-  * [6주차](#6주차-220616star)
 * [Problem Solving](#problem-solving)
   * [PS 1주차](#ps-1주차-220616star)  
 
