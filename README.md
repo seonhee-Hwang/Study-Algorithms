@@ -7,7 +7,8 @@
   * [4주차](#4주차-220602star)
   * [5주차](#5주차-220609star)
 * [Problem Solving](#problem-solving)
-  * [PS 1주차](#ps-1주차-220616star)  
+  * [PS 1주차](#ps-1주차-220616star)
+  * [PS 2주차](#ps-2주차-220623star)  
 
 ---
 ## Review of Algorithms & Data Structures:star2:
@@ -86,4 +87,7 @@
 - 추후 PS 진행 방식에 대한 논의 진행
 - 기초 2차원 배열 관련 문제로 워밍업 진행
 - [풀이 내용](./ProblemSolving/1%EC%A3%BC%EC%B0%A8/) - CodeUp 2차원 배열 기초 문제 진행([1097](https://codeup.kr/problem.php?id=1097), [1098](https://codeup.kr/problem.php?id=1098), [1099](https://codeup.kr/problem.php?id=1099))
+---
+### PS 2주차 (22/06/23):star:
+- [풀이 내용](./ProblemSolving/2%EC%A3%BC%EC%B0%A8/) - CodeUp 재귀함수 ([4564](https://codeup.kr/problem.php?id=4564&rid=0)), 탐색기반설계 ([2625](https://codeup.kr/problem.php?id=2625))
 ---
