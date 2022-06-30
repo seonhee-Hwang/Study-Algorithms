@@ -89,5 +89,13 @@
 - [풀이 내용](./ProblemSolving/1%EC%A3%BC%EC%B0%A8/) - CodeUp 2차원 배열 기초 문제 진행([1097](https://codeup.kr/problem.php?id=1097), [1098](https://codeup.kr/problem.php?id=1098), [1099](https://codeup.kr/problem.php?id=1099))
 ---
 ### PS 2주차 (22/06/23):star:
-- [풀이 내용](./ProblemSolving/2%EC%A3%BC%EC%B0%A8/) - CodeUp 재귀함수 ([4564](https://codeup.kr/problem.php?id=4564&rid=0)), 탐색기반설계 ([2625](https://codeup.kr/problem.php?id=2625))
+- [풀이 내용](./ProblemSolving/2%EC%A3%BC%EC%B0%A8/)
+  - CodeUp 재귀함수 ([4564](https://codeup.kr/problem.php?id=4564&rid=0))
+  - CodeUp 탐색기반설계 ([2625](https://codeup.kr/problem.php?id=2625))
+---
+### PS 3주차 (22/06/30):star:
+- CodeUp 서버 폭파로 인해.... BOJ로 피신
+- [풀이 내용](./ProblemSolving/3%EC%A3%BC%EC%B0%A8/)
+  - BOJ 그리디 알고리즘 ([11399](https://www.acmicpc.net/problem/11399))
+  - BOJ 구현 ([18111](https://www.acmicpc.net/problem/18111))
 ---
