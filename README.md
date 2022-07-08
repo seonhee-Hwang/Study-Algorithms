@@ -95,8 +95,19 @@
   - CodeUp 탐색기반설계 ([2625](https://codeup.kr/problem.php?id=2625))
 ---
 ### PS 3주차 (22/06/30):star:
-- CodeUp 서버 폭파로 인해.... BOJ로 피신
+- CodeUp 서버 폭파로 인해... BOJ로 피신
 - [풀이 내용](./ProblemSolving/3%EC%A3%BC%EC%B0%A8/)
   - BOJ 그리디 알고리즘 ([11399](https://www.acmicpc.net/problem/11399))
   - BOJ 구현 ([18111](https://www.acmicpc.net/problem/18111))
+---
+### PS 4주차 (22/07/08):star:
+- 취업한 이들의 야근으로 인해... 금요일로 대체
+- **일요일 8시**로 재조정
+- 이론적인 내용 (논문, 통신, 프레임워크) + 자료구조 & 알고리즘
+- 자료구조 & 알고리즘 진행 방법
+  -  코테 위주로 진행
+  -  구현, BFS & DFS, Greedy, DP 를 먼저 정복
+  -  22/07/17일부터 하나씩 정복 (Greedy, BFS & DFS, DP, 구현)
+  -  이 후에 다른 과정을 진행
+- **코드 푸신거 꼭 올리십시오 (안올리면 반성문)**
 ---
