@@ -111,3 +111,11 @@
   -  이 후에 다른 과정을 진행
 - **코드 푸신거 꼭 올리십시오 (안올리면 반성문)**
 ---
+### PS 5주차 (22/07/17):star:
+- **코드 푸신거 꼭 올리십시오 (안올리면 반성문)**
+- 면접 후기 관련 얘기
+- 추후에는 [참고 자료](https://github.com/tony9402/baekjoon)를 활용하여, 기본 문제부터 하나씩 풀어갈 예정
+- 구현부터 문제 풀이 시작
+- [풀이 내용](./ProblemSolving/5주차/)
+  - BOJ 구현 ([2753](https://www.acmicpc.net/problem/2753), [1212](https://www.acmicpc.net/problem/1212), [20053](https://www.acmicpc.net/problem/20053), [5597](https://www.acmicpc.net/problem/5597), [21918](https://www.acmicpc.net/problem/21918), [20546](https://www.acmicpc.net/problem/20546))
+---
