@@ -1,29 +1,23 @@
 input_brc = input()
 stack = []
+res = True
 
 for i in range(len(input_brc)):
-    if input_brc[i] in '({[':
+
+    l = ['(', '[', '{']
+    r = [')', ']', '}']
+
+    if input_brc[i] in l:
         stack.append(input_brc[i])
-    elif input_brc[i] in ')}]':
-        if len(stack) != 0:
-            if input_brc[i] == '(':
-                if stack.pop() == ')':
-                    print("True")
-                else:
-                    print("False")
 
-            elif input_brc[i] == '{':
-                if stack.pop() == '}':
-                    print("True")
-                else:
-                    print("False")
-
-            elif input_brc[i] == '[':
-                if stack.pop() == ']':
-                    print("True")
-                else:
-                    print("False")
+    elif input_brc[i] in r:
+        if r.index(input_brc[i]) == l.index(stack[-1]):
+            stack.pop()
         else:
-            print("False")
-    else:
-        print("False")
+            break
+res = False
+
+if len(stack) == 0:
+    res = True
+
+print(res)

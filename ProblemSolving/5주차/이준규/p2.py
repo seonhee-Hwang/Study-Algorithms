@@ -1,24 +1,25 @@
-#
-# import re
-# T = int(input())
-# input_list =[[] for _ in range(T) ]
-# # print(input_list)
-# for i in range(T):
-#     L = int(input())
-#     for j in range(L):
-#         input_list[i].append(re.findall(r'\d+', input()))
-# print(input_list)
-#
-low_tmp = []
-high_tmp = []
-mid_tmp = []
 T = int(input())
+
 for i in range(T):
     L = int(input())
-    for j in range(3):
-        low_tmp.append(list(map(int, input().split('-'))))
-        high_tmp.append(list(map(int, input().split('-'))))
-        mid_tmp.append(list(map(int, input().split('-'))))
+    cnt = 0
+    low_tmp = list(map(int, input().split('-')))
+    high_tmp = list(map(int, input().split('-')))
+    mid_tmp = list(map(int, input().split('-')))
 
-        print(low_tmp, high_tmp, mid_tmp)
+    ls = [low_tmp, high_tmp, mid_tmp]
+    # print(ls)
+    for m in range(len(ls)):
+        l = ls[m]
+        for i in range(len(l)):
+            change = bin(l[i])[2:]
+            l[i] = str(change).rjust(8, "0")
+    # print(ls)
+    for j in range(L):
+        for k in range(8):
+            if low_tmp[j][k] == high_tmp[j][k] == mid_tmp[j][k]:
+                continue
+            else:
+                cnt += 1
+    print(cnt)
 
