@@ -119,3 +119,13 @@
 - [풀이 내용](./ProblemSolving/5주차/)
   - BOJ 구현 ([2753](https://www.acmicpc.net/problem/2753), [1212](https://www.acmicpc.net/problem/1212), [20053](https://www.acmicpc.net/problem/20053), [5597](https://www.acmicpc.net/problem/5597), [21918](https://www.acmicpc.net/problem/21918), [20546](https://www.acmicpc.net/problem/20546))
 ---
+### PS 6주차 (22/07/24):star:
+- 석균님 탈퇴 (과중한 업무)
+- 뉴비 탐색
+  - 창업 동아리에 계신 분들께 여쭤볼 예정
+  - 잔디에 스터디 모집
+- 추후에는 [참고 자료](https://github.com/tony9402/baekjoon)를 활용하여, 기본 문제부터 하나씩 풀어갈 예정
+- 구현부터 문제 풀이 시작
+- [풀이 내용](./ProblemSolving/6주차/)
+  - BOJ 구현 ([14467](https://www.acmicpc.net/problem/14467), [2578](https://www.acmicpc.net/problem/2578), [4396](https://www.acmicpc.net/problem/4396))
+---
