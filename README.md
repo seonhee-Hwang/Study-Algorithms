@@ -129,3 +129,17 @@
 - [풀이 내용](./ProblemSolving/6주차/)
   - BOJ 구현 ([14467](https://www.acmicpc.net/problem/14467), [2578](https://www.acmicpc.net/problem/2578), [4396](https://www.acmicpc.net/problem/4396))
 ---
+### PS 7주차 (22/07/31):star:
+- 뉴비 입장:star:
+  - 승택님 (중고 뉴비) - 업무적으로 코드 작성이 필요할 것 같아서, 지속적인 연습을 하려고
+  - 범훈님 - 취업을 하셨는데, 실무에서 코드 작성할 때, 필요한 실력을 늘리고 싶어서
+  - 동현님 - 요새 나태해진 것 같아서, 공부를 좀 해야될 것 같아서
+  - 선희님 - 하반기 코딩테스트를 할 수도 있어서, 준비겸 들어왔다
+- 진행 방식 및 기본적인 내용 소개
+  - 코딩 테스트 소개 및 스터디 진행 방식 소개
+  - 구현, BFS&DFS, 그리디, 다이나믹 프로그래밍, 시뮬레이션 등의 순서로 진행 예정
+  - [참고 자료](https://github.com/tony9402/baekjoon)를 활용하여, 기본 문제부터 하나씩 풀어갈 예정
+  - 새로오신 분들을 위해, 구현 부분 쉬운 문제부터 다시 진행 (2인 1조, 3인 1조 형식으로 진행)
+- [풀이 내용](./ProblemSolving/7주차/)
+  - BOJ 구현 ([2753](https://www.acmicpc.net/problem/2753), [1212](https://www.acmicpc.net/problem/1212), [20053](https://www.acmicpc.net/problem/20053), [5597](https://www.acmicpc.net/problem/5597))
+---
